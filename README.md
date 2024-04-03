@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm a senior engineer with a degree in mechanical 
 
 ## Hackathon Title
 
-###NovHack 2024 Reinforcement Learning in the Energy Sector
+### NovHack 2024 2nd place - Reinforcement Learning in the Energy Sector
 
 During this hackathon, our team took on the challenge of developing an innovative solution to optimize energy performance using reinforcement learning. This experience not only tested our ability to work effectively as a team under high pressure but also showcased our capability to innovate and solve complex problems quickly. We are proud to have achieved 2nd place, reflecting our commitment to excellence and innovation in the field of artificial intelligence.
