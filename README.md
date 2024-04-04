@@ -26,7 +26,7 @@ During this hackathon, our team took on the challenge of developing an innovativ
 
 ## Let's Connect!
 
-<a href="https://www.linkedin.com/in/wail-benrabh-985057183/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="wbenrabh" height="50"  /></a>
+<a href="https://www.linkedin.com/in/wail-benrabh/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="wbenrabh" height="50"  /></a>
 
 📧 Feel free to get in touch at wail.benrabh@outlook.fr or on Linkedin .  Let's connect and collaborate on exciting data projects! 🚀
 ## Languages and Tools
